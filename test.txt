@@ -1,17 +1,5 @@
 Hello world
 Goodbye Trump
-<<<<<<< HEAD
 another line
 second line
-
-
-
-
-
-
-555
-`
-
-=======
 Yay!
->>>>>>> 64f1513154b2769dbd3af41d8be3fda7d25ebfa3
